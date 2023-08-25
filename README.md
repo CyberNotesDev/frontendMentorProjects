@@ -40,7 +40,7 @@ Working on applying Mobile applications at a faster rate
 
 ## Author
 
-- Website - [Add your name here](https://elijahls.dev)
+- Website - [Elijah Littell-Sivley](https://elijahls.dev)
 - Frontend Mentor - [@CyberNotesDev](https://www.frontendmentor.io/profile/CyberNotesDev)
 - LinkedIn - [@elijahlittellsivley](https://www.linkedin.com/in/elijahlittellsivley/)
 - Github - [@CyberNotesDev](https://github.com/CyberNotesDev)
